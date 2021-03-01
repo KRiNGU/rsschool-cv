@@ -1,6 +1,5 @@
 Alexandr Lobashov
-============
-
+===
 ---
 Tver/Russia 
 
@@ -11,7 +10,7 @@ Discord: ADVENT#5621
 ---
 
 Education
----------
+---
 
 2018-2022 (expected)
 :   **Fundamental Informatics and Information Technology**; TvSU (Tver)
@@ -21,7 +20,7 @@ Education
 
 ---
 Experience
-----------
+---
 
 **My Most Recent Work Experience:**
 
