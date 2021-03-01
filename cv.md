@@ -1,13 +1,11 @@
 Alexandr Lobashov
 ===
----
+
 Tver/Russia 
 
 EMail: viper.489@inbox.ru
 
 Discord: ADVENT#5621
-
----
 
 Education
 ---
@@ -18,7 +16,6 @@ Education
 2021
 :   **EPAM Java courses**; Java-development (online)
 
----
 Experience
 ---
 
@@ -28,7 +25,6 @@ Now I'm working on the creation of a website for a hackathon in Tver.
 
 **My other projects:**
 
----
 Programming Languages
 ---
 
@@ -36,7 +32,6 @@ Programming Languages
 
  Basic knowledge of **C++** and **Python**
 
----
 Code examples
 ---
 ```javascript
@@ -65,7 +60,7 @@ function findShort(s){ //return minimal word's length
   return arr;
 }
  ```
----
+ 
 English Skills
 ---
 My current English level is B1.
