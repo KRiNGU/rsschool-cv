@@ -29,11 +29,12 @@ Now I'm working on the creation of a website for a hackathon in Tver.
 **My other projects:**
 
 ---
-
 Programming Languages
-:  **Java:** I have skills in Java and Spring Boot.
+---
 
- :  Basic knowledge of **C++** and **Python**
+ **Java:** I have skills in Java and Spring Boot.
+
+ Basic knowledge of **C++** and **Python**
 
 ---
 Code examples
