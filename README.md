@@ -1,1 +1,1 @@
-# rsschool-cv
+https://KRiNGU.github.io/rsschool-cv/cv
