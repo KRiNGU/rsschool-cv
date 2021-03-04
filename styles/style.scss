@@ -1,0 +1,49 @@
+$color: rgb(136, 136, 136);
+
+body {
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    font: 13pt/15pt OpenSans-Light;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    background-color: #efefef;
+    border-radius: 10px;
+    p{
+        margin-top: 21px;
+    }
+    .item {
+        padding: 10px;
+        margin: 1px;
+        width: calc(50% - 2px);
+        text-align: center;
+        a {
+            text-decoration: none;
+        }
+    }
+}
+
+hr {
+    border: none;
+    color: $color;
+    background-color: $color;
+    height: 2px;
+    border-radius: 10px;
+}
+
+article {
+    section {
+        color: blue;
+    }
+}
+
+@font-face{
+    font-family: "OpenSans-Light";
+    src: url(fonts/OpenSans-Light.ttf);
+    font-style: normal;
+    font-weight: normal;
+}

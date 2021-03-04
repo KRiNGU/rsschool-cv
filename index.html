@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="styles/style.css" />
+    <link rel="stylesheet" href="styles/prism.css" />
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <header>
+      <div class="item"><h1>Alexandr Lobashov</h1></div>
+      <div class="item"><p>Coordinates: Tver/Russia</p></div>
+      <div class="item">
+        <p>EMail: <a href="mailto:viper.489@inbox.ru">viper.489@inbox.ru</a></p>
+      </div>
+      <div class="item"><p>Discord: ADVENT#5621</p></div>
+    </header>
+    <main>
+      <article>
+        <section>
+          <h2>Education</h2>
+          <hr />
+        </section>
+        <div class="content"></div>
+        <p>
+          2018-2022 (expected):
+          <b>Fundamental Informatics and Information Technology</b>; TvSU (Tver)
+        </p>
+        <p>2021: <b>EPAM Java cources</b>; Java-development (online)</p>
+      </article>
+      <article>
+        <section>
+          <h2>Experience</h2>
+          <hr />
+        </section>
+        <p><b>My most recent work experience:</b></p>
+        <p>
+          Now I'm working on the creation of a website for a hackathon in Tver.
+        </p>
+        <p><b>My other projects:</b></p>
+      </article>
+      <article>
+        <section>
+          <h2>Programming Languages</h2>
+          <hr />
+        </section>
+        <p><b>Java:</b> I have skills in Java and Spring Boot</p>
+        <p>Basic knowledge in <b>C++</b> and <b>Python</b></p>
+      </article>
+      <article>
+        <section>
+          <h2>Code examples</h2>
+          <hr />
+        </section>
+
+        <pre><code class="language-javascript">function findShort(s){ //return minimal word's length
+    return Math.min.apply(null, s.split(" ").
+                                  map((word) => word.length));
+}
+            </code></pre>
+        <pre><code class="language-javascript">function fizzbuzz(n){ //standart FizzBuzz task
+    let arr = [];
+    for (let i = 1; i <= n; i++) {
+        let str = '';
+        if (i % 3 == 0) {
+            str += 'Fizz';  
+        }
+        if (i % 5 == 0) {
+            str += 'Buzz'
+        }
+        if (str != '') {
+            arr.push(str)
+        }
+        else {
+            arr.push(i);
+        }
+    }
+    return arr;
+}</code></pre>
+      </article>
+      <article>
+        <section>
+          <h2>English skills</h2>
+          <hr />
+        </section>
+        My current English level is B1.
+      </article>
+    </main>
+    <script src="scripts/prism.js"></script>
+  </body>
+</html>
